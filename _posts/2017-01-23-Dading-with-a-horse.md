@@ -43,9 +43,8 @@ s#.<br>
 4<br>
 -1
 
-```cpp
-
-#include<iostream>            
+``` cpp
+#include<iostream>
 #include<cstdio>               
 #include<cstring>           
 #include<string>           
