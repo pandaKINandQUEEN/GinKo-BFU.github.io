@@ -4,7 +4,7 @@ title:      "大钉骑马走江湖"
 subtitle:   ""
 date:       2017-01-23
 author:     "JinTao"
-header-img: ""
+header-img: "img/bloghead.jpg"
 catalog: true
 tags:
     - BFS
@@ -29,18 +29,18 @@ tags:
 对应每组输入，输出骑马跳到终点的最小步数，如果跳不到终点，输出 -1。
 
 ### 样例输入1 
-3 3
-s..
-...
-..e
+3 3<br>
+s..<br>
+...<br>
+..e<br>
 
-3 3
-s#.
-...
-#.e
+3 3<br>
+s#.<br>
+...<br>
+#.e<br>
 
 ### 样例输出1 
-4
+4<br>
 -1
 
 ```cpp
