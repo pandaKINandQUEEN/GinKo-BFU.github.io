@@ -1,6 +1,6 @@
 # Site settings
-title: JinTao's Blog
-SEOTitle: JinTao's Blog
+title: Tao's Blog
+SEOTitle: Tao's Blog
 header-img: img/home-bg-hill.jpg
 email: 00002@protonmainlcom
 description: "描述"
@@ -15,8 +15,8 @@ RSS: false
 #weibo_username:     keysaim
 zhihu_username:     keysaim
 github_username:    keysaim
-#twitter_username:   keysaim
-jianshu_username:   e413b88a622b
+twitter_username:   keysaim
+#jianshu_username:   e413b88a622b
 #facebook_username:  keysaim
 # linkedin_username:  firstname-lastname-idxxxx
 
