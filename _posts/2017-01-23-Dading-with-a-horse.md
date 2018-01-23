@@ -44,10 +44,10 @@ s#.<br>
 -1
 
 ```cpp
-#include<iostream>
-#include<cstdio>
-#include<cstring>
-#include<string>
+#include<iostream>   
+#include<cstdio>  
+#include<cstring>  
+#include<string>  
 #include<queue>
 int q[8] = { -2,-1,1,2,2,1,-1,-2 };//p,q控制前进
 int p[8] = { 1,2,2,1,-1,-2,-2,-1 };
