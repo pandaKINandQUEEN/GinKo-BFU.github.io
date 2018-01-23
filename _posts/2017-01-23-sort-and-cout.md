@@ -29,34 +29,57 @@ tags:
 
 ### 样例输入1 
 2
+
 3
+
 112
+
 111
+
 112
+
 6
+
 1
+
 12345
+
 98765
+
 12008
+
 12010
+
 2009
 
 ### 样例输出1 
 111
+
 112
+
 1
+
 2009
+
 12008
+
 12010
+
 12345
+
 98765
 
 ``` cpp
 #include<iostream>
+
 #include<algorithm>
+
 #include<cstdio>
+
 #include<set>
+
 using namespace std;
+
 int main()
 {
 	int T,t,n;
