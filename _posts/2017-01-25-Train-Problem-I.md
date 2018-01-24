@@ -7,9 +7,9 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - queue
     - stack
     - ACM
+    
 ---
 
 ## Train Problem I
