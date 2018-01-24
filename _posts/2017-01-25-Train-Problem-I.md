@@ -2,7 +2,7 @@
 layout:     post
 title:      "Train Problem I"
 subtitle:   ""
-date:       2017-01-23
+date:       2017-01-25
 author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
