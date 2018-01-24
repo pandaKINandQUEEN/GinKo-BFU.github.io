@@ -7,8 +7,6 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    
-    - 素筛
     - ACM
     
 ---
