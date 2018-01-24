@@ -6,9 +6,8 @@ date:       2017-01-25
 author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
-tags:
-   - 素筛
-   - ACM
+tags:[ACM,素筛]
+  
 ---
 
 ## Largest prime factor  
