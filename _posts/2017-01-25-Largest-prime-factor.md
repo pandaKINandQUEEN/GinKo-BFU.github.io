@@ -6,7 +6,9 @@ date:       2017-01-25
 author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
-tags:[ACM,素筛]
+tags:
+- ACM
+- 素筛
   
 ---
 
