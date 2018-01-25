@@ -9,7 +9,6 @@ catalog: true
 tags:
 - ACM
 - 素筛
-  
 ---
 
 ## Largest prime factor  
