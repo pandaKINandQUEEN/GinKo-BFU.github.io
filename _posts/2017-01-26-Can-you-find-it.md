@@ -103,13 +103,19 @@ int main()
 }
 ```
 
-#### 一直WA的代码也附上，真不知道一样的代码，重写一遍就过了，希望有一天能找到原因 So,can you find it?
+#### WA
+一直WA的代码也附上，真不知道一样的代码，重写一遍就过了，希望有一天能找到原因 So,can you find it?
 ```cpp
 #include<iostream>
+
 #include<cstdio>
+
 #include<cstring>
+
 #include<algorithm>
+
 #include<cstring>
+
 using namespace std;
 int a[1000],b[1000],c[1000];
 int se[1000000];
