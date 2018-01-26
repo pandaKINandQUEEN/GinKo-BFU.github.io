@@ -45,7 +45,7 @@ NO<br>
 YES<br>
 NO<br>
 
-### AC代码
+### AC
 ``` cpp
 #include<iostream>
 
