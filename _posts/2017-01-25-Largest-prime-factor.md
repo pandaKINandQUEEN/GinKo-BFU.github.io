@@ -49,7 +49,7 @@ Output the LPF(n).
 1<br>
 3
 
-
+### AC
 ``` cpp
 #include<iostream>
 
