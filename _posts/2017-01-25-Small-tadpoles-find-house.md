@@ -32,6 +32,7 @@ tags:
 ### 样例输出1 
 2
 
+### AC
 #### dfs解法
 ``` cpp
 #include<iostream>
