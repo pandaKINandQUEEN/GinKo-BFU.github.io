@@ -4,7 +4,7 @@ title:      "Can you find it?"
 subtitle:   ""
 date:       2017-01-26
 author:     "JinTao"
-header-img: "img/head2.jpeg"
+header-img: "img/head2.jpg"
 catalog: true
 tags:
 - ACM
