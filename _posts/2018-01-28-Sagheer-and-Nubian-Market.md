@@ -41,7 +41,9 @@ On a single line, print two integers k, T — the maximum number of souvenirs Sa
 ### AC
 ``` cpp
 #include<iostream>
+
 #include<algorithm>
+
 using namespace std;
 long long a[100005],b[100005];
 int main()
