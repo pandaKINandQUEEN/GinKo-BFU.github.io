@@ -32,7 +32,7 @@ The second line contains n space-separated integers a1, a2, ..., an (1 �
 On a single line, print two integers k, T — the maximum number of souvenirs Sagheer can buy and the minimum total cost to buy these k souvenirs.
 
 ### 样例输入1
-3 11
+3 11<br>
 2 3 5
 
 ### 样例输出1 
