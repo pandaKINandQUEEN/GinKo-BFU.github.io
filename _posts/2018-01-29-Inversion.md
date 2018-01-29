@@ -18,6 +18,8 @@ tags:
 
 只要这个序列不是上升序列就一定有逆序对存在。
 
+最后：除了int main(),把所有的int替换为 long long 才过
+
 ### 描述
 bobo has a sequence a 1,a 2,…,a n. He is allowed to swap two adjacent numbers for no more than k times. 
 
