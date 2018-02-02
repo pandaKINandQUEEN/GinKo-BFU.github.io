@@ -98,7 +98,21 @@ service-worker: true
 
 
 # Friends
-#friends: []
+#friends: [
+{
+        title: "HDU",
+        href: "http://acm.hdu.edu.cn/"
+    },{
+        title: "Codeforces",
+        href: "http://codeforces.com/"
+    },{
+        title: "BJFU",
+        href: "http://www.bjfuacm.com/"
+    },{
+        title: "Virtual Judge",
+        href: "https://vjudge.net/"
+    }
+]
 
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 anchorjs-visible: hover
