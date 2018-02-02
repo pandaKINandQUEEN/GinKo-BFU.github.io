@@ -1,6 +1,6 @@
 # Site settings
 title: Tao's Blog
-SEOTitle: Tao's Blog
+SEOTitle: 锦涛的博客|Tao's Blog
 header-img: img/home.jpg
 email: 00002@protonmainlcom
 description: "描述"
@@ -17,7 +17,7 @@ zhihu_username: JSFEHDIDKHLKCDK
 github_username: SFJL47RFKLSKDJI49
 twitter_username: FSJI4U89IEDJ49IH  
 #jianshu_username:   e413b88a622b
-#facebook_username:  keysaim
+facebook_username:  keysaim
 # linkedin_username:  firstname-lastname-idxxxx
 
 
