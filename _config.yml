@@ -51,16 +51,16 @@ kramdown:
 
 
 # Disqus settings
- disqus_username: 
+# disqus_username: 
 
 # Netease setttings
 netease_comment: false
 
 # For gitment
-gitment: false
-gitment-repo: comments
-gitment-client-id: 
-gitment-client-secret: 
+#gitment: false
+#gitment-repo: comments
+#gitment-client-id: 
+#gitment-client-secret: 
 
 # For test
 #gitment-repo: 
@@ -72,8 +72,8 @@ gitment-client-secret:
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-104622100-1'
-ga_domain: keysaim.github.io
+#ga_track_id: 'UA-104622100-1'
+#ga_domain: keysaim.github.io
 
 
 
