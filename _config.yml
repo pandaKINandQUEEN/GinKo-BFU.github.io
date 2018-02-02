@@ -82,7 +82,7 @@ ga_domain: keysaim.github.io
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "边栏描述"
 # TODO need add the headshot
-sidebar-avatar: /img/avatar-.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/myphoto.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
