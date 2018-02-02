@@ -57,7 +57,7 @@ kramdown:
 netease_comment: false
 
 # For gitment
-gitment: true
+gitment: false
 gitment-repo: comments
 gitment-client-id: 8d920ad685683a529e83
 gitment-client-secret: ffabf134048e374883ee67d3786a9a6b7d8d3cdc
