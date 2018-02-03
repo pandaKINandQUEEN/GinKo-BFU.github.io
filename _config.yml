@@ -112,6 +112,9 @@ friends: [
         title: "Virtual Judge",
         href: "https://vjudge.net/"
     },{
+        title: "POJ",
+        href: "http://poj.org/"
+    },{
         title: "Sphere Online Judge",
         href: "http://www.spoj.com/"
     }
