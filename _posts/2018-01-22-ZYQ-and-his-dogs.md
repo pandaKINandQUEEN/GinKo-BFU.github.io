@@ -69,7 +69,8 @@ int main()
 		{
 			int t;
 			scanf("%d",&t);
-			a[t]+=1;//记录次数 
+			a[t]+=1;//记录次数
+			
 			x[i]=t;
 			if(t>max)
 			 max=t;
