@@ -44,6 +44,13 @@ impossible<br><br>
 Scenario #3:<br>
 A1B3C1A2B4C2A3B1C3A4B2C4<br><br>
 
+### Exprience
+以前一直没有考虑一个问题：就是一个递归函数中的return只是退出了这一层而不是退出递归。
+以前做的dfs只要求求解存在性，这次要求打印路径才暴露问题。
+这题的另一个重点是要求输出lexicographically first path。
+一开始傻傻循环从一个个起点开始搜，仔细想想这是没必要的，只需要从A1。
+控制输出一开始还想用个栈保存路径，但想想数据也不大暴力一点也就好。
+最后输出出现了格式错误，原因是两组数据之间要输出空行：print a single line containing the lexicographically first path that visits all squares of the chessboard with knight moves followed by an empty line.
 ### AC
 ```cpp
 #include<iostream>
@@ -51,17 +58,11 @@ A1B3C1A2B4C2A3B1C3A4B2C4<br><br>
 #include<cstring>
 
 using namespace std;
-
 int x[8]={-1,1,-2,2,-2,2,-1,1};
-
 int y[8]={-2,-2,-1,-1,1,1,2,2};
-
 int sign[10][10];
-
 int flag;
-
 int m,n;
-
 void search(int u,int v,int I);
 int main()
 {
