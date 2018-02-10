@@ -7,7 +7,7 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - BFS
+    - bfs
     - ACM
 ---
 
