@@ -7,8 +7,8 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - bfs
-    - ACM
+    - bfs
+    - ACM
 ---
 
 ## 大钉骑马走江湖
