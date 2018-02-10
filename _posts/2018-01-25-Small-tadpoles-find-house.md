@@ -7,8 +7,8 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - BFS
-    - DFS
+    - bfs
+    - dfs
     - ACM
 ---
 
