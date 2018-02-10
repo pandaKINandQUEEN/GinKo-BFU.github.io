@@ -6,9 +6,7 @@ date:       2018-01-23
 author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
-tags:
-   - bfs
-   - ACM
+tags: - bfs - ACM
 ---
 
 ## 大钉骑马走江湖
