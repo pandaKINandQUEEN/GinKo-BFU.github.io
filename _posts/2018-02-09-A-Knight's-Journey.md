@@ -45,17 +45,23 @@ Scenario #3:<br>
 A1B3C1A2B4C2A3B1C3A4B2C4<br><br>
 
 ### AC
+```cpp
 #include<iostream>
 
 #include<cstring>
 
 using namespace std;
+
 int x[8]={-1,1,-2,2,-2,2,-1,1};
 
 int y[8]={-2,-2,-1,-1,1,1,2,2};
+
 int sign[10][10];
+
 int flag;
+
 int m,n;
+
 void search(int u,int v,int I);
 int main()
 {
@@ -110,5 +116,7 @@ void search(int u,int v,int I)
 		}	
 } 
 
-```
 
+
+
+```
