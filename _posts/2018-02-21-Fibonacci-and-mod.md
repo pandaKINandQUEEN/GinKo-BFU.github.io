@@ -4,7 +4,7 @@ title:      "入门训练 Fibonacci数列"
 subtitle:   ""
 date:       2018-01-22
 author:     "JinTao"
-header-img: "img/2018-new-year.jpg"
+header-img: "img/2018newyear.jpg"
 catalog: true
 tags:
 - ACM
