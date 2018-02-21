@@ -34,6 +34,7 @@ Fibonacci数列的递推公式为：Fn=Fn-1+Fn-2，其中F1=F2=1。
 ### AC
 ``` cpp
 #include<iostream>
+
 using namespace std;
 int a[1000050];
 int main()
