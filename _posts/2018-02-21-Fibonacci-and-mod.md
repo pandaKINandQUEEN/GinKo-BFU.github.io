@@ -8,6 +8,7 @@ header-img: "img/2018newyear.jpg"
 catalog: true
 tags:
 - ACM
+- 蓝桥杯
 ---
 
 ## 入门训练 Fibonacci数列
