@@ -2,7 +2,7 @@
 layout:     post
 title:      "入门训练 Fibonacci数列"
 subtitle:   ""
-date:       2018-01-22
+date:       2018-02-21
 author:     "JinTao"
 header-img: "img/2018newyear.jpg"
 catalog: true
