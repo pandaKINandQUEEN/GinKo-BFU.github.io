@@ -32,7 +32,7 @@ Fibonacci数列的递推公式为：Fn=Fn-1+Fn-2，其中F1=F2=1。
 
 (a+b)%c=(a%c+b%c)%c;
 
-### <font color=#99cc66><b> AC </b></font>
+### AC
 ``` cpp
 #include<iostream>
 
