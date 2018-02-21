@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "入门训练 Fibonacci数列"
+subtitle:   ""
+date:       2018-01-22
+author:     "JinTao"
+header-img: "img/2018-new-year.jpg"
+catalog: true
+tags:
+- ACM
+---
+
+## 入门训练 Fibonacci数列
+
+### 描述
+Fibonacci数列的递推公式为：Fn=Fn-1+Fn-2，其中F1=F2=1。
+当n比较大时，Fn也非常大，现在我们想知道，Fn除以10007的余数是多少。
+### 输入
+输入包含一个整数n。1 <= n <= 1,000,000。
+### 输出
+第1到N行，每行的输出表示第i头狗子要的狗头的数量．
+### 样例输入1 
+22
+
+### 样例输出1 
+7704
+
+### AC
+``` cpp
+#include<iostream>
+using namespace std;
+int a[1000050];
+int main()
+{
+	
+	int n;cin>>n;
+	a[1]=1;a[2]=1;
+	for(int i=3;i<=n;++i)
+	{
+		a[i]=(a[i-1]+a[i-2])%10007;	
+	}
+	cout<<a[n]<<endl;
+	return 0;	
+} 
+```
+
