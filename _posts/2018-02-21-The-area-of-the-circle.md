@@ -34,8 +34,11 @@ tan(π/4)=1 --> atan(1.0)=PI;  头文件cmath
 ### AC
 ``` cpp
 #include<iostream>
+
 #include<cstdio>
+
 #include<cmath>
+
 using namespace std;
 int main()
 {
