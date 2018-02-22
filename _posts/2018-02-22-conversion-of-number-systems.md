@@ -100,6 +100,11 @@ For each test case,print the sum of A and B in hexadecimal in one line.
 -2C<br>
 -90
 
+### Experience
+这题%x应该是不够，得%llx。以后还是llx保险。%llx,%llX控制字母大小写。
+
+一开始这样写的样例输出会出现fffffff之类，所以计算负数的时候要转化成十进制先算，如果十进制结果小于零就取相反数转16进制，多输出个符号就行
+
 ### AC
 ```cpp
 #include<iostream>
