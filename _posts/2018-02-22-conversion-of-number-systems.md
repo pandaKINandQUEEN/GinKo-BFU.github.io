@@ -7,7 +7,6 @@ author:     "JinTao"
 header-img: "img/2018newyear.jpg"
 catalog: true
 tags:
-- ACM
 - 蓝桥杯
 ---
 
