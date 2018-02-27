@@ -115,6 +115,9 @@ friends: [
         title: "POJ",
         href: "http://poj.org/"
     },{
+        title: "hihoCoder",
+        href: "https://hihocoder.com/hiho"
+    },{
         title: "Sphere Online Judge",
         href: "http://www.spoj.com/"
     }
