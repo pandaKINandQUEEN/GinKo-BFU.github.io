@@ -78,7 +78,7 @@ distance = 3<br>
 ### Exp
 第一次写最小生成树，这个代码还挺了不起的
 
-鸣谢：ZYQ LYB 
+鸣谢：ZYQ LWB 
 
 CSDN[算法导论--最小生成树（Kruskal和Prim算法）](http://blog.csdn.net/luoshixian099/article/details/51908175)
 
