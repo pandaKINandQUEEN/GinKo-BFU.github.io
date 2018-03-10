@@ -8,6 +8,8 @@ header-img: "img/lanqiao.jpg"
 catalog: true
 tags:
 - 蓝桥杯
+- MST
+- Prim
 ---
 
 ## The Traveling Judges Problem
@@ -75,6 +77,10 @@ distance = 3<br>
 1-2-3
 ### Exp
 第一次写最小生成树，这个代码还挺了不起的
+鸣谢：ZYQ LYB 
+	CSDN[算法导论--最小生成树（Kruskal和Prim算法）](http://blog.csdn.net/luoshixian099/article/details/51908175)
+
+### AC
 ``` cpp
 #include<iostream>
 
