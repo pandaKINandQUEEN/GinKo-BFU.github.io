@@ -37,7 +37,7 @@ tags:
 
 ### Exp
 本以为这是一道水题，但由于经验不足A了三个小时。<br>
-1.用 substr()+stringstream转数字 等不出结果，我早该聊到sstream的速度了。<br>
+1.用 substr()+stringstream转数字 等不出结果，我早该料到sstream的速度了。<br>
 2.用 substr()+stoll()转数字，dev竟然还不支持c++11,好吧，工具->编译选项->编译时加入以下命令->-std=c++11搞定；<br>
 3.我日？蓝桥网不知持C++11?!<br>
 4.好吧，不支持算了，然后企图在本地找到stoll()函数原型，无果；<br>
