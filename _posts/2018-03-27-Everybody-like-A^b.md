@@ -42,34 +42,30 @@ tags:
 ``` cpp
 #include<iostream>
 
-#include<cstring>
-
 using namespace std;
+int qpow(int a,int b)
+{
+	int base=a;
+	int ans=1;
+	while(b)
+	{
+		ans%=1000;
+		base%=1000;
+		if(b&1)
+		{
+			ans*=base;
+		}
+		base*=base;
+		b>>=1;
+	}	
+	return ans;
+}
 int main()
 {
-	int m,n;
-	while(cin>>n>>m)
+	int a,b;
+	while((cin>>a>>b)&&(a+b)) 
 	{
-		int w[n+1],v[n+1];
-		for(int i=1;i<=n;++i)
-		{
-			cin>>w[i]>>v[i];
-		}
-		
-		int b[m+1];
-		memset(b,0,sizeof(b));
-		
-		for(int I=1;I<=n;++I)
-		{
-			for(int i=m;i>=0;i--)
-			{
-				if(i>=w[I])
-				{
-					b[i]=max(b[i],b[i-w[I]]+v[I]);
-				}
-			}
-		}
-		cout<<b[m]<<endl;
+		cout<<qpow(a,b)%1000<<endl;
 	}
 	return 0;
 }
