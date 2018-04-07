@@ -4,7 +4,7 @@ title:      "Matrix Power Series"
 subtitle:   ""
 date:       2018-04-04
 author:     "JinTao"
-header-img: "img/Mat/racing.jpg"
+header-img: "img/Headers/racing.jpg"
 catalog: true
 tags:
 - 矩阵快速幂
