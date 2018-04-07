@@ -103,6 +103,9 @@ friends: [
         title: "HDU",
         href: "http://acm.hdu.edu.cn/"
     },{
+        title: "LeetCode",
+        href: "https://leetcode-cn.com/"
+    },{
         title: "Codeforces",
         href: "http://codeforces.com/"
     },{
