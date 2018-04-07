@@ -37,7 +37,7 @@ tags:
 例如无序数列8 3 10 1 6 4 7 14 13依次插入二叉树中，二叉树的结构应如下图所示：
 
 给你一个数列，请将其插入二叉排序树中，再对这棵二叉排序树进行前序、中序、后序以及层次遍历，输出遍历结果。
-![Binary Search Tree](img/Mat/BinarySearchTree.jpg"Binary Search Tree")
+![Binary Search Tree](img/Mat/BinarySearchTree.jpg)
 
 ### 输入
 输入包含多组测试数据。
