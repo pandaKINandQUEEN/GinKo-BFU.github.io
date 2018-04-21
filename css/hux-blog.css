@@ -33,7 +33,7 @@
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
-  border-color: #0085a1;
+  border-color: #333366;
 }
 .sidebar-container .short-about img {
   width: 80%;
@@ -122,7 +122,7 @@
   background-color: #F5F5F5;
 }
 .side-catalog .catalog-body .active a {
-  color: #0085a1!important;
+  color: #333366!important;
 }
 @media (max-width: 1200px) {
   .side-catalog {
@@ -140,7 +140,7 @@
   font-size: 14px;
   min-height: 14px;
   background-color: #323232;
-  background-color: #0085a1;
+  background-color: #333366;
   position: fixed;
   display: flex;
   justify-content: space-between;
@@ -336,7 +336,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #333366;
 }
 a img:hover,
 a img:focus {
@@ -870,7 +870,7 @@ footer .copyright a {
 }
 footer .copyright a:hover,
 footer .copyright a:focus {
-  color: #0085a1;
+  color: #333366;
 }
 .floating-label-form-group {
   font-size: 14px;
@@ -942,8 +942,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #333366;
+  border: 1px solid #333366;
   color: white;
 }
 .pager {
@@ -979,8 +979,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #333366;
+  border: 1px solid #333366;
 }
 .pager li > a:hover > span,
 .pager li > a:focus > span {
@@ -997,12 +997,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #333366;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #333366;
 }
 img::selection {
   color: white;
@@ -1068,7 +1068,7 @@ img::-moz-selection {
 #tag_cloud .tag:hover,
 #tag_cloud a:active,
 #tag_cloud .tag:active {
-  background-color: #0085a1 !important;
+  background-color: #333366 !important;
 }
 @media only screen and (min-width: 768px) {
   #tag_cloud {
@@ -1087,7 +1087,7 @@ img::-moz-selection {
   margin-top: 0px;
 }
 .listing-seperator {
-  color: #0085a1;
+  color: #333366;
   font-size: 21px !important;
 }
 .listing-seperator::before {
