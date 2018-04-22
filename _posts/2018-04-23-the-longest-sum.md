@@ -11,7 +11,6 @@ tags:
 - dp
 ---
 
-## 遍历二叉排序树
 
 ![img](https://m.qpic.cn/psb?/V11fBiPq0ilfbD/OCcusDkQRnqlyT2rTQiv14EstTvpYdQ2.XmJSThINgk!/b/dEIBAAAAAAAA&bo=FQdGAwAAAAADB3U!&rf=viewer_4)
 
