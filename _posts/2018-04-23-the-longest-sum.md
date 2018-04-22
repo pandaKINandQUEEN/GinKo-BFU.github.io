@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hardwood Species"
+title:      "最长连续和"
 subtitle:   ""
 date:       2018-04-23
 author:     "JinTao"
