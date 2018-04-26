@@ -5,7 +5,7 @@ header-img: img/Headers/blue.png
 email: 00002@protonmail.com
 description: "描述"
 keyword: "JinTao, 锦涛"
-url: "https://www.Jintao.space"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
