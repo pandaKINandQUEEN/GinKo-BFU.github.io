@@ -79,7 +79,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "<font color=#6699cc><b>Courage, deliberation, and also</b></font> <font color=#99cc66><b> Accept </b></font><font color=#6699cc><b>.</b></font><br><font color =#6699cc><b> Email me at </b></font><font color=orange><b> 00002@PM.ME </b>"
+sidebar-about-description: "<font color=#6699cc><b>Courage, deliberation, <br>and also</b></font> <font color=#99cc66><b> Accept </b></font><font color=#6699cc><b>.</b></font><br><font color =#6699cc><b> Contact by</b></font><font color=orange><b> 00002@PM.ME </b>"
 # TODO need add the headshot
 sidebar-avatar: /img/Accept.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
