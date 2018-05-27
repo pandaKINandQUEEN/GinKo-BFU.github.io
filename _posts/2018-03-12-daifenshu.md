@@ -7,7 +7,7 @@ author:     "JinTao"
 header-img: "img/lanqiao.jpg"
 catalog: true
 tags:
-- 蓝桥杯
+- 枚举
 ---
 
 ## 带分数
