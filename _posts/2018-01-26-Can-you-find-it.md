@@ -7,7 +7,6 @@ author:     "JinTao"
 header-img: "img/head2.jpg"
 catalog: true
 tags:
-- ACM
 - 二分
 ---
 
