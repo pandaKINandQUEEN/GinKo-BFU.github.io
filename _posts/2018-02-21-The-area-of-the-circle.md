@@ -7,7 +7,6 @@ author:     "JinTao"
 header-img: "img/2018newyear.jpg"
 catalog: true
 tags:
-- 蓝桥杯
 ---
 
 ## 入门训练 圆的面积
