@@ -8,7 +8,6 @@ header-img: "img/Headers/racing.jpg"
 catalog: true
 tags:
 - 二叉搜索树
-- ACM
 ---
 
 ## 遍历二叉排序树
