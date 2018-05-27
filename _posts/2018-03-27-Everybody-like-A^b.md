@@ -8,7 +8,6 @@ header-img: "img/lanqiao.jpg"
 catalog: true
 tags:
 - 快速幂
-- ACM
 ---
 
 ## 人见人爱A^B
