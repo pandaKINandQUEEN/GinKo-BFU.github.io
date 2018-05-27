@@ -8,7 +8,6 @@ header-img: "img/Headers/racing.jpg"
 catalog: true
 tags:
 - 矩阵快速幂
-- ACM
 ---
 
 ## Matrix Power Series
