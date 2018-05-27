@@ -1,14 +1,13 @@
 ---
 layout:     post
 title:      "排序输出"
-subtitle:   "我的第一个set程序"
+subtitle:   ""
 date:       2018-01-23
 author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - set
-    - ACM
+    - STL
 ---
 
 ## 排序输出
