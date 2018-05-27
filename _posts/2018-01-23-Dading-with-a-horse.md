@@ -8,7 +8,6 @@ header-img: "img/bloghead.jpg"
 catalog: true
 tags: 
 - bfs 
-- ACM
 ---
 
 ## 大钉骑马走江湖
