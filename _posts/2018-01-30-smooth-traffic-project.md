@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "畅通工程"
-subtitle:   "我的第一个并查集程序"
+subtitle:   ""
 date:       2018-01-30
 author:     "JinTao"
 header-img: "img/head2.jpg"
