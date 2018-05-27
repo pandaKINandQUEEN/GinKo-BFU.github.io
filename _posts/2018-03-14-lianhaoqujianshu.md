@@ -7,7 +7,6 @@ author:     "JinTao"
 header-img: "img/lanqiao.jpg"
 catalog: true
 tags:
-- 蓝桥杯
 ---
 
 ## 连号区间数
