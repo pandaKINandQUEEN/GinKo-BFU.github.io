@@ -7,9 +7,7 @@ author:     "JinTao"
 header-img: "img/bloghead.jpg"
 catalog: true
 tags:
-    - stack
-    - ACM
-    - queue
+    - STL
     
 ---
 
