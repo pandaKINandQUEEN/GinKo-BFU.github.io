@@ -98,33 +98,7 @@ service-worker: true
 
 
 # Friends
-friends: [
-{
-        title: "HDU",
-        href: "http://acm.hdu.edu.cn/"
-    },{
-        title: "LeetCode",
-        href: "https://leetcode-cn.com/"
-    },{
-        title: "Codeforces",
-        href: "http://codeforces.com/"
-    },{
-        title: "BJFU",
-        href: "http://www.bjfuacm.com/"
-    },{
-        title: "Virtual Judge",
-        href: "https://vjudge.net/"
-    },{
-        title: "POJ",
-        href: "http://poj.org/"
-    },{
-        title: "hihoCoder",
-        href: "https://hihocoder.com/hiho"
-    },{
-        title: "Sphere Online Judge",
-        href: "http://www.spoj.com/"
-    }
-]
+
 
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 anchorjs-visible: hover
