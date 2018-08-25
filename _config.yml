@@ -1,10 +1,10 @@
 # Site settings
-title: Tao's  Blog
-SEOTitle: Tao's Blog
+title: GinKo World
+SEOTitle: GinKo World
 header-img: ./life.jpg
-email: 00002@protonmail.com
-description: "描述"
-keyword: "JinTao, 锦涛"
+email: 
+description: ""
+keyword: ""
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 #weibo_username:     keysaim
-zhihu_username: signup?next=%2F
-github_username: login
-twitter_username: FSJI4U89IEDJ49IH  
+#zhihu_username: signup?next=%2F
+#github_username: login
+#twitter_username: FSJI4U89IEDJ49IH  
 #jianshu_username:   e413b88a622b
-facebook_username: FSJI4U89IEDJ49IH
+#facebook_username: FSJI4U89IEDJ49IH
 # linkedin_username:  firstname-lastname-idxxxx
 
 
