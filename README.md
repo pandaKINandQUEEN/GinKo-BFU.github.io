@@ -1,1 +1,1 @@
-This is for my github page[(Tao's Blog)](https://Jintao-Qu.github.io).
+This is for GinKo's github page[(GinKo World)](https://GinKo-BFU.github.io).
