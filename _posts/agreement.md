@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ginko World用户协议"
 subtitle:   ""
-date:       2018-08-15
+date: "2018-08-15"
 author:     "GinKo Team"
 header-img: "./ginko.jpg"
 catalog: true
